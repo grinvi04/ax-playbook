@@ -1,0 +1,4 @@
+# 이 파일이 있으면 harness-guard(≥0.25.0)가 이 repo에서 dev git-flow 강제를 면제한다.
+# 스킵: main 직접 커밋 · feature plan-gate · force push · 맨손 PR 생성/머지
+# 유지: 파괴적 안전가드(코어 재귀삭제 · 검증기 삭제 · 강제 리셋 · 글로벌 설치)
+# 문서/경량 repo용 opt-out — 원칙 #5(의식의 무게를 산출물별로 right-size).
